@@ -1,5 +1,9 @@
 package com.keven.cursojava.aula24.labs;
 
+/*
+ * Criar uma classe para representar uma conta bancária 
+ * */
+
 public class Exer05 {
 
 	public static void main(String[] args) {

@@ -1,5 +1,9 @@
 package com.keven.cursojava.aula24.labs;
 
+/*
+ * Criar uma classe que representa um contacto
+ */
+
 public class Exer06 {
 
 	public static void main(String[] args) {
